@@ -1,0 +1,431 @@
+{
+  "pdf_path": "D:\\Project\\myWorkplace\\financial_parser\\input\\cib.pdf",
+  "max_page": 28,
+  "pages": [
+    {
+      "page": 1,
+      "type": "table",
+      "tables": [
+        {
+          "num_rows": 1,
+          "header_preview": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "type": "text",
+      "text_preview": ""
+    },
+    {
+      "page": 3,
+      "type": "table",
+      "tables": [
+        {
+          "num_rows": 22,
+          "header_preview": [
+            null,
+            "Sep. 30, 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "type": "table",
+      "tables": [
+        {
+          "num_rows": 30,
+          "header_preview": [
+            "",
+            "Last 3 Months Last 9 Months"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "type": "table",
+      "tables": [
+        {
+          "num_rows": 4,
+          "header_preview": [
+            "Last 3 Months Last 9 Months"
+          ]
+        },
+        {
+          "num_rows": 2,
+          "header_preview": [
+            "3 0,257,774 6 8,508,336\n3 1,514 1 14,466"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "type": "table",
+      "tables": [
+        {
+          "num_rows": 8,
+          "header_preview": [
+            "Sep. 30, 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "type": "table",
+      "tables": [
+        {
+          "num_rows": 6,
+          "header_preview": [
+            "Sep. 30, 2025\n6 ,286,889\n( 14,773,854)\n(288,320)\n2 76,930"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "type": "table",
+      "tables": [
+        {
+          "num_rows": 2,
+          "header_preview": [
+            "Reserve for Cumulative\nReserve for Reserve for\nemployee foreign Total Non-\nSep. 30, 2025 Issued and Legal reserve General General risk Special reserve transactions Capital reserve financial assets Banking risks Retained earnings stock currencies Shareholders’ Controlling Total\npaid capital reserve reserve under common at fair value reserve\nownership translation Equity Interest\ncontrol through OCI\nplan differences\nBeginning balance 3 0,431,580 6 ,208,674 6 2,422,792 1 ,550,906 - ( 670,972) 2 2,818 ( 7,145,283) 1 7,924 5 6,791,883 1 ,868,235 1 ,137,720 1 52,636,277 1 83,044 1 52,819,321\nCapital increase 2 76,930 - - - - - - - - - - - 2 76,930 - 2 76,930\nTransferred to reserves - 2 ,771,284 1 9,758,610 - - - 2 ,246 - - ( 21,744,828) ( 787,312) - - - -\nDividends paid - - - - - - - - - ( 14,714,434) - - ( 14,714,434) ( 59,420) ( 14,773,854)\nNet profit for the period - - - - - - - - - 6 2,099,695 - - 6 2,099,695 5 69 6 2,100,264\nTransferred to RE from financial assets at fair value through OCI - - - - - - - ( 110,995) - 1 10,995 - - - - -\nTransferred from net profit to special reserve - - - - 1 3,145,012 - - - - ( 13,145,012) - - - - -\nTransferred to general risk reserve - - - 2 6,186 - - - - - ( 26,186) - - - - -\nNet change on financial assets at fair value through OCI after tax - - - - - - - 7 ,192,292 - - - - 7 ,192,292 1 13,897 7 ,306,189\nTransferred (from) to banking risk reserve - - - - - - - - ( 2,628) 2 ,628 - - - - -\nEffect of ECL on debt instruments measured at fair value through\n- - - - - - - ( 397,890) - - - - ( 397,890) - ( 397,890)\nOCI\nCost of employees stock ownership plan (ESOP) - - - - - - - - - - 9 90,324 - 9 90,324 - 9 90,324\nCumulative foreign currencies translation differences - - - - - - - - - - - ( 274,766) ( 274,766) - ( 274,766)"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "type": "text",
+      "text_preview": "Notes to the condensed consolidated interim financial statement for the period ended September 30, 2025\n1. General information\nCommercial International Bank-Egypt (CIB) S.A.E. provides retail, corporate and investment banking services in\nvarious parts of Egypt through 203 branches, and 11 units employing 8,532 employees on the statement of financial\nposition date.\nCommercial International Bank-Egy"
+    },
+    {
+      "page": 10,
+      "type": "table",
+      "tables": [
+        {
+          "num_rows": 4,
+          "header_preview": [
+            "Sep.30, 2025\nLoans and advances Loans and advances to\nto customers banks"
+          ]
+        },
+        {
+          "num_rows": 2,
+          "header_preview": [
+            "Stage 1: Stage 2: Stage 3:\nTotal\n12 months Life time Life time\n83,485,318 4,970,900 1,016,182 89,472,400\n278,851,158 114,803,436 12,161,382 405,815,976"
+          ]
+        },
+        {
+          "num_rows": 2,
+          "header_preview": [
+            "Stage 2: Expected credit Stage 3: Expected credit\nStage 1: Expected\nlosses losses\ncredit losses over 12 Total\nover a lifetime that is not over a lifetime\nmonths\ncreditworthy credit default\n3,551,613 140,822 829,342 4,521,777\n3,997,699 18,422,911 9,410,512 31,831,122"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "type": "table",
+      "tables": []
+    },
+    {
+      "page": 12,
+      "type": "table",
+      "tables": [
+        {
+          "num_rows": 2,
+          "header_preview": [
+            "Stage 1 Stage 2 Stage 3\nTotal\n12 months Life time Life time\nECL ECL ECL ECL\n3,825 - - 3,825\n140,573 7,136 - 147,709\n- - - -\n- - - -\n- - - -\n( 7,894) - - ( 7,894)"
+          ]
+        },
+        {
+          "num_rows": 2,
+          "header_preview": [
+            "Stage 1 Stage 2 Stage 3\nTotal\n12 months Life time Life time\nECL ECL ECL ECL\n2 ,901,607 165,037 758,625 3 ,825,269\n650,006 ( 24,215) 117,759 743,550\n- - (167,757) (167,757)\n- - 120,715 120,715"
+          ]
+        },
+        {
+          "num_rows": 2,
+          "header_preview": [
+            "Stage 1 Stage 2 Stage 3\nTotal\n12 months Life time Life time\nECL ECL ECL ECL\n7 ,381,514 2 4,585,991 9 ,688,788 4 1,656,293\n1 ,958,805 (1,798,435) (618,777) (458,407)\n596,064 (492,701) (103,363) -\n(599,227) 599,227 - -\n( 62,807) (572,813) 635,620 -\n(5,254,076) (2,919,628) - (8,173,704)\n- - 461,465 461,465\n- - (346,870) (346,870)\n( 22,574) (978,730) (306,351) (1,307,655)"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "type": "table",
+      "tables": []
+    },
+    {
+      "page": 14,
+      "type": "table",
+      "tables": [
+        {
+          "num_rows": 2,
+          "header_preview": [
+            "Sep.30, 2025\n2 7,823,416"
+          ]
+        },
+        {
+          "num_rows": 2,
+          "header_preview": [
+            "Stage 1: Stage 2: Stage 3:\nTotal\n12 months Life time Life time\n- - - -\n- - - -\n- - - -\n2 30,685,849 - - 2 30,685,849\n- - - -"
+          ]
+        },
+        {
+          "num_rows": 2,
+          "header_preview": [
+            "Stage 1: Stage 2: Stage 3:\nTotal\n12 months Life time Life time\n3 7,556,495 - - 3 7,556,495\n3 ,277,713 - - 3 ,277,713\n1 8,228,739 - - 1 8,228,739\n2 43,063,486 2 6,657,797 - 2 69,721,283\n- - - -"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "type": "table",
+      "tables": []
+    },
+    {
+      "page": 16,
+      "type": "table",
+      "tables": [
+        {
+          "num_rows": 5,
+          "header_preview": [
+            "EGP USD EUR GBP Other Total\n8,737,066 8,206,739 3,173,414 221,658 1,547,154 21,886,031\n70,003,012 129,740,199 24,733,450 2,769,675 307,221 227,553,557\n- 26,176,019 1,123,995 - - 27,300,014\n389,669,768 95,955,290 7,724,747 3 8,635 1,899,936 495,288,376\n2 9,041 1,193,867 - - - 1,222,908\n392,704,504 154,379,892 14,440,430 643,608 2,770,728 564,939,162\n4 4,485 - - - - 44,485"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "type": "table",
+      "tables": [
+        {
+          "num_rows": 4,
+          "header_preview": [
+            "Sep.30, 2025\n2 27,553,557\n27,300,014\n4 95,288,376\n2 31,162,977",
+            null,
+            "Sep.30, 2025\n2 28,004,004\n27,386,834\n4 96,317,431\n2 31,208,994"
+          ]
+        },
+        {
+          "num_rows": 7,
+          "header_preview": [
+            "Fair value measurement using\nQuoted prices in active Significant observable Valuation techniques\nTotal\nmarkets (Level 1) inputs (level 2) (level 3)\n2,203,869 - - 2,203,869\n1 88,021,436 1 43,017,623 - 331,039,059"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "type": "table",
+      "tables": [
+        {
+          "num_rows": 6,
+          "header_preview": [
+            "Corporate Asset Liability\nSME's Investments Retail banking Total\nbanking Management\n51,433,800 8,083,321 1 7,599,923 18,882,894 4,950,676 100,950,614\n( 8,152,659) (2,427,478) (616,065) (6,279,244) (185,113) ( 17,660,559)"
+          ]
+        },
+        {
+          "num_rows": 6,
+          "header_preview": [
+            "Alex, Delta & Outside Egypt\nGreater Cairo Upper Egypt Total\nSinai (CIB Kenya)\n84,332,090 12,645,576 3 ,430,218 542,730 100,950,614\n( 13,226,875) (2,955,652) (675,457) (802,575) (17,660,559)"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "type": "table",
+      "tables": [
+        {
+          "num_rows": 2,
+          "header_preview": [
+            "Last 3 Months Last 9 Months\nSep.30, 2025 Sep.30, 2025\n( 303,016) 9 76,120\n( 16,817) 6 ,870\n8 7,649 3 82,785\n1 87,739 ( 186,216)\n7 9,206 1 02,691"
+          ]
+        },
+        {
+          "num_rows": 2,
+          "header_preview": [
+            "Last 3 Months Last 9 Months\nSep.30, 2025 Sep.30, 2025\n7 90,377 1 ,266,361\n2 ,000 8 ,006\n5 ,100,838 4 ,072,083\n( 1,666,011) ( 4,678,018)"
+          ]
+        },
+        {
+          "num_rows": 6,
+          "header_preview": [
+            "Last 3 Months Last 9 Months\nSep.30, 2025 Sep.30, 2025\n2 8,797,996 62,207,506\n( 234,795) ( 735,937)\n( 1,565,298) ( 4,906,249)"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "type": "table",
+      "tables": [
+        {
+          "num_rows": 3,
+          "header_preview": [
+            "Sep.30, 2025\n1 9,020,203\n2 ,865,828"
+          ]
+        },
+        {
+          "num_rows": 8,
+          "header_preview": [
+            "Sep.30, 2025\n8 ,559,366\n218,994,191\n( 143,640)"
+          ]
+        },
+        {
+          "num_rows": 4,
+          "header_preview": [
+            "Sep.30, 2025\n2 99,350\n1 5,781,900\n5 5,474,775\n8 2,719,088\n( 12,745,506)"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "type": "table",
+      "tables": [
+        {
+          "num_rows": 9,
+          "header_preview": [
+            "Sep.30, 2025\n3 ,105,916\n1 7,480,594\n6 1,470,398\n7 ,415,492"
+          ]
+        },
+        {
+          "num_rows": 3,
+          "header_preview": [
+            "Sep.30, 2025"
+          ]
+        },
+        {
+          "num_rows": 3,
+          "header_preview": [
+            "Sep.30, 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 22,
+      "type": "table",
+      "tables": [
+        {
+          "num_rows": 3,
+          "header_preview": [
+            "Sep.30, 2025\nFinancial Assets at Financial Assets at\nFinancial Assets at\nFair Value through Fair Value through Total\nAmortized cost\nP&L OCI\n2,203,869 158,402,435 227,631,728 388,238,032\n- 22,841,147 2,071,354 24,912,501\n- 703,071 - 703,071\n- - 982,767 982,767\n- 6,074,783 - 6,074,783\n- 140,013,583 - 140,013,583\n- 1,452,282 - 1,452,282\n- 875,084 - 875,084\n- 6 76,674 - 6 76,674"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "type": "table",
+      "tables": [
+        {
+          "num_rows": 2,
+          "header_preview": [
+            "Last 3 Months Last 9 Months\nSep.30, 2025 Sep.30, 2025\n7 1,511 4 16,668\n- 2 77,408"
+          ]
+        },
+        {
+          "num_rows": 3,
+          "header_preview": [
+            "Sep.30, 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 24,
+      "type": "table",
+      "tables": [
+        {
+          "num_rows": 2,
+          "header_preview": [
+            "Sep.30, 2025\n34,894,360\n2,456,938\n8,368,333\n4,156,163\n73,378\n114,145"
+          ]
+        },
+        {
+          "num_rows": 7,
+          "header_preview": [
+            "Sep.30, 2025\nMachines and Furniture and\nLand Premises IT Vehicles Fitting -out Total\nequipment furnishing\n229,669 1,418,517 5,968,065 245,012 1,274,421 1,279,716 197,355 10,612,755\n- 213,228 2,255,512 34,330 274,946 375,043 63,086 3,216,145\n- (6,711) (2,737) - (15,027) (1,845) (1,652) (27,972)"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 25,
+      "type": "table",
+      "tables": [
+        {
+          "num_rows": 7,
+          "header_preview": [
+            "Sep.30, 2025\n2 ,636,886\n4 ,815,358"
+          ]
+        },
+        {
+          "num_rows": 8,
+          "header_preview": [
+            "Sep.30, 2025\n4 20,475,511\n1 71,965,072\n2 50,060,032\n1 97,702,071\n7 ,261,304"
+          ]
+        },
+        {
+          "num_rows": 2,
+          "header_preview": [
+            "Sep.30, 2025\n3 ,801,492\n4 ,517,855\n1 7,230,481\n1 ,459,426"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "type": "table",
+      "tables": [
+        {
+          "num_rows": 2,
+          "header_preview": [
+            "Sep.30, 2025\nNo. of shares in\nthousand\n7 5,874\n2 6,127\n( 892)\n( 27,693)"
+          ]
+        },
+        {
+          "num_rows": 2,
+          "header_preview": [
+            "EGP EGP\nNo. of shares in\nExercise price Fair value\nthousand\n1 0.00 34.09 2 5,586\n1 0.00 66.15 2 1,703\n1 0.00 66.48 2 6,127"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 27,
+      "type": "table",
+      "tables": [
+        {
+          "num_rows": 5,
+          "header_preview": [
+            "Last 3 Months Last 9 Months\nSep.30, 2025 Sep.30, 2025\n37,030,932 83,290,624\n22.50% 22.50%"
+          ]
+        },
+        {
+          "num_rows": 8,
+          "header_preview": [
+            "Equivalent in EGP"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 28,
+      "type": "text",
+      "text_preview": ""
+    }
+  ]
+}
